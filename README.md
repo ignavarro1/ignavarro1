@@ -14,17 +14,17 @@
 
 ### 🎙️ Talks
 
-| Date     | Conference                                           | Country               | Talk Title                                                             |
-|----------|------------------------------------------------------|-----------------------|------------------------------------------------------------------------|
-| Nov 2023 | [8.8](https://8dot8.org/)                            | Chile 🇨🇱            | [SQLi to Root Access: Exploiting a ISP infrastructure](link-to-talk-1) |
-| Nov 2023 | [Ekoparty](https://ekoparty.org/)                    | Argentina 🇦🇷        | [SQLi to Root Access: Exploiting a ISP infrastructure](link-to-talk-1) |
-| Jul 2023 | [DojoConf](https://dojoconfpa.org/)                  | Panama 🇵🇦           | [SQLi to Root Access: Exploiting a ISP infrastructure](link-to-talk-1) |
-| May 2023 | [Security Fest](https://securityfest.com/)           | Sweden 🇸🇪           | [SQLi to Root Access: Exploiting a ISP infrastructure](link-to-talk-1) |
-| Apr 2023 | [BSides](https://bsidesco.org/)                      | Colombia 🇨🇴         | [SQLi to Root Access: Exploiting a ISP infrastructure](link-to-talk-1) |
-| Nov 2022 | [Ekoparty](https://ekoparty.org/)                    | Argentina 🇦🇷        | [No parking, No problem!](link-to-talk-1)                              |
-| Oct 2022 | [8.8](https://8dot8.org/)                            | Chile 🇨🇱            | [No parking, No problem!](link-to-talk-1)                              |
-| Oct 2022 | [Hacktivity](https://hacktivity.com/)                | Hungary 🇭🇺          | [No parking, No problem!](link-to-talk-1)                              |
-| Aug 2022 | [Diana Initiative](https://www.dianainitiative.org/) | United States 🇺🇸    | [No parking, No problem!](link-to-talk-1)                              |
+| Date     | Conference                                           | Country               | Talk Title                                               |
+|----------|------------------------------------------------------|-----------------------|----------------------------------------------------------|
+| Nov 2023 | [8.8](https://8dot8.org/)                            | Chile 🇨🇱            | [SQLi to Root Access: Exploiting a ISP infrastructure]() |
+| Nov 2023 | [Ekoparty](https://ekoparty.org/)                    | Argentina 🇦🇷        | [SQLi to Root Access: Exploiting a ISP infrastructure]() |
+| Jul 2023 | [DojoConf](https://dojoconfpa.org/)                  | Panama 🇵🇦           | [SQLi to Root Access: Exploiting a ISP infrastructure](https://www.youtube.com/watch?v=c0u7s6OnOfQ) |
+| May 2023 | [Security Fest](https://securityfest.com/)           | Sweden 🇸🇪           | [SQLi to Root Access: Exploiting a ISP infrastructure](https://www.youtube.com/watch?v=pttUiwcfBq4) |
+| Apr 2023 | [BSides](https://bsidesco.org/)                      | Colombia 🇨🇴         | [SQLi to Root Access: Exploiting a ISP infrastructure](https://www.youtube.com/watch?v=1XpnK3cszDw) |
+| Nov 2022 | [Ekoparty](https://ekoparty.org/)                    | Argentina 🇦🇷        | [No parking, No problem!]()                |
+| Oct 2022 | [8.8](https://8dot8.org/)                            | Chile 🇨🇱            | [No parking, No problem!]()                |
+| Oct 2022 | [Hacktivity](https://hacktivity.com/)                | Hungary 🇭🇺          | [No parking, No problem!](https://www.youtube.com/watch?v=nlHmhvZjl6E)                |
+| Aug 2022 | [Diana Initiative](https://www.dianainitiative.org/) | United States 🇺🇸    | [No parking, No problem!](https://www.youtube.com/watch?v=kUf-Pl6Or8A)                |
 
 
 ### 🚨 Disclaimer
