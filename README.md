@@ -12,6 +12,15 @@
 - 🛠️ DevSecOps Practices
 - ☁️ Amazon Web Services (AWS)
 
+<div id="badges">
+  <a href="https://twitter.com/IgNavarro1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/ignavarro1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 ### 🎙️ Talks
 
 | Date      | Conference                                                             | Country            | Talk Title                                                                                       |
