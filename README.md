@@ -58,6 +58,12 @@
 | Oct 2022 | [Hacktivity](https://hacktivity.com/)                                   | Hungary 🇭🇺       | [No parking, No problem!](https://www.youtube.com/watch?v=nlHmhvZjl6E)                              |
 | Aug 2022 | [Diana Initiative](https://www.dianainitiative.org/)                    | United States 🇺🇸 | [No parking, No problem!](https://www.youtube.com/watch?v=kUf-Pl6Or8A)                              |
 
+### 📝️ Articles
+
+| Date | Media                | Article                                                                                                                                          |
+|------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025 | The Reporter Asia | [Hacker Reveals Business Flaws, Urges Turning Digital Risk Into Opportunity](https://thereporter.asia/eng/2025/10/hacker-reveals-business-risk/) |                                                              |
+
 
 ### 🚨 Disclaimer
 
