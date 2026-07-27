@@ -21,11 +21,20 @@
   </a>
 </div>
 
+### 📝️ Articles
+
+| Date | Media                | Article                                                                                                                                          |
+|------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025 | The Reporter Asia | [Hacker Reveals Business Flaws, Urges Turning Digital Risk Into Opportunity](https://thereporter.asia/eng/2025/10/hacker-reveals-business-risk/) |                                                              |
+
 ### 🎙️ Talks
 
 | Date     | Conference                                                              | Country            | Talk Title                                                                                          |
 |----------|-------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------|
-| Nov 2025 | [8.8 Brazil](https://8dot8.org/)                                          | Brazil 🇧🇷        | Oops, I Hacked It Again: Tales and disclosures                                                      |                                                              |
+| May 2026 | [HackInBo](https://www.hackinbo.it/)                                    | Italy 🇮🇹         | Every ride you take - Hacking a City’s Public Transportation                                                      |                                                              |
+| May 2026 | [X33fcon](https://www.x33fcon.com/)                                     | Poland 🇵🇱        | Every ride you take - Hacking a City’s Public Transportation                                                      |                                                              |
+| May 2026 | [CONFidence](https://confidence-conference.org/)                        | Poland 🇵🇱        | Every ride you take - Hacking a City’s Public Transportation                                                      |                                                              |
+| Nov 2025 | [8.8 Brazil](https://8dot8.org/)                                        | Brazil 🇧🇷        | Oops, I Hacked It Again: Tales and disclosures                                                      |                                                              |
 | Oct 2025 | [TheSAScon](https://thesascon.com/)                                     | Thailand 🇹🇭      | Oops, I Hacked It Again: Grand Theft Disclosures                                                     |                                                              |
 | Oct 2025 | [Hack.lu](https://hack.lu/)                                             | Luxembourg 🇱🇺    | Oops, I Hacked It Again: Tales and disclosures                                                      |                                                              |
 | Oct 2025 | [No Hat](https://www.nohat.it/)                                         | Italy 🇮🇹         | [Oops, I Hacked It Again: Tales and disclosures](https://www.youtube.com/watch?v=BbPcyB0epjE)       |                                                              |
@@ -58,11 +67,6 @@
 | Oct 2022 | [Hacktivity](https://hacktivity.com/)                                   | Hungary 🇭🇺       | [No parking, No problem!](https://www.youtube.com/watch?v=nlHmhvZjl6E)                              |
 | Aug 2022 | [Diana Initiative](https://www.dianainitiative.org/)                    | United States 🇺🇸 | [No parking, No problem!](https://www.youtube.com/watch?v=kUf-Pl6Or8A)                              |
 
-### 📝️ Articles
-
-| Date | Media                | Article                                                                                                                                          |
-|------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025 | The Reporter Asia | [Hacker Reveals Business Flaws, Urges Turning Digital Risk Into Opportunity](https://thereporter.asia/eng/2025/10/hacker-reveals-business-risk/) |                                                              |
 
 
 ### 🚨 Disclaimer
