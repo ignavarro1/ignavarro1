@@ -23,10 +23,14 @@
 
 ### 📝️ Articles
 
-| Date | Media             | Article                                                                                                                                          |
-|------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025 | The Reporter Asia | [Hacker Reveals Business Flaws, Urges Turning Digital Risk Into Opportunity](https://thereporter.asia/eng/2025/10/hacker-reveals-business-risk/) |                                                              |
-| 2026 | Clarin            | [BSides Las Vegas: un argentino mostró cómo pudo hackear todo el sistema de transporte de Córdoba](https://www.clarin.com/tecnologia/bsides-vegas-argentino-mostro-pudo-hackear-sistema-transporte-cordoba_0_eFFFD5igCY.html) |                                                              |
+| Date | Media               | Article                                                                                                                                          |
+|------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025 | The Reporter Asia   | [Hacker Reveals Business Flaws, Urges Turning Digital Risk Into Opportunity](https://thereporter.asia/eng/2025/10/hacker-reveals-business-risk/) |                                                              |
+| 2026 | Clarin              | [BSides Las Vegas: un argentino mostró cómo pudo hackear todo el sistema de transporte de Córdoba](https://www.clarin.com/tecnologia/bsides-vegas-argentino-mostro-pudo-hackear-sistema-transporte-cordoba_0_eFFFD5igCY.html) |                                                              |
+| 2026 | La Voz del Interior | [Cómo fue el "hackeo ético" a parte del sistema del transporte urbano de Córdoba y qué se detectó](https://www.lavoz.com.ar/ciudadanos/hackeo-etico-parte-sistema-transporte-urbano-cordoba-detecto_0_ccoov8rmBB.html) |                                                              |
+| 2026 | Perfil              | [Quién hackeó el sistema de transporte de Córdoba y para qué lo hizo](https://www.perfil.com/noticias/cordoba/ignacio-navarro-nuestra-tarea-es-encontrar-la-falla-antes-que-los-delincuentes.phtml) |                                                              |
+| 2026 | Cadena 3            | [Un cordobés mostró cómo hackeó el transporte de Córdoba y lo contó en una conferencia en Las Vegas](https://www.cadena3.com/noticia/sociedad/un-cordobes-mostro-como-hackeo-el-transporte-de-cordoba-y-lo-conto-en-una-conferencia-en-las-vegas_582847) |                                                              |
+| 2026 | El Resaltador       | [Un hacker cordobés detectó fallas de seguridad en el sistema de transporte urbano](https://elresaltador.com.ar/un-hacker-cordobes-detecto-fallas-de-seguridad-en-el-sistema-de-transporte-urbano/) |                                                              |
 
 ### 🎙️ Talks
 
